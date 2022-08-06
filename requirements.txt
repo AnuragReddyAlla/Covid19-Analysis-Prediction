@@ -1,0 +1,11 @@
+matplotlib
+scikit-image
+plotly
+simplejson
+seaborn
+folium
+openpyxl
+streamlit_folium
+statsmodels
+sklearn
+geopandas
